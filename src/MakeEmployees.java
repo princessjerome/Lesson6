@@ -6,6 +6,7 @@ public class MakeEmployees {
         KeyboardReader kr = new KeyboardReader();
         String name = kr.readLine("Enter your name: ");
         System.out.println("Hello " + name);
+        System.out.println("This is another line");
     }
     
 }
