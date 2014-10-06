@@ -23,6 +23,7 @@ public class GuessingGame extends javax.swing.JFrame {
         lblattempts = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("GuessingGame");
         setBackground(new java.awt.Color(51, 102, 255));
 
         jLabel1.setFont(new java.awt.Font("Arial", 0, 14)); // NOI18N
